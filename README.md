@@ -1,4 +1,19 @@
 # Glitch-tyba
+Essa é a página da célula de Curitiba do [Glitch Mundo](https://glitchmundo.github.io/main/). Para ver anuncios gerais ou a programação completa de atividades, [cola aqui](https://glitchmundo.github.io/main/)!
+
+
+### Um jeito diferente de pensar sobre coisas
+
+O Glitch Mundo é um espaço seguro e aberto de jogos e experiências interativas. É tão aberto que não só todo mundo pode ir, mas todo mundo pode fazer! Saiba mais sobre como organizar seu Glitch Mundo [aqui](https://github.com/GlitchMundo/main/wiki/). É tão seguro que cada existência do Glitch Mundo deve seguir nosso [código de conduta](https://github.com/GlitchMundo/main/wiki/c%C3%B3digo-de-conduta), nosso [manifesto](https://github.com/GlitchMundo/main/wiki/manifesto) e nossas [diretrizes](https://github.com/GlitchMundo/main/wiki/diretrizes).
+
+**Juntos somos mais fortes. Juntos, nós somos independentes.**
+
+# A Primeira Edição
+
+_**PS:** Se você quiser organizar suas próprias atividades nessa primeira edição, entre no [Discord](https://discord.gg/3P2Q5eM) para coordenarmos todas as iniciativas de forma organizada._
+
+Para nossa primeira edição, estamos organizando de forma paralela ao [BIG Festival](http://www.bigfestival.com.br), que irá ocorrer entre os dias 26 a 30 de junho, em São Paulo. Até o presente momento, a [célula](https://github.com/GlitchMundo/main/wiki/c%C3%A9lula) de Curitiba irá organizar as atividades abaixo:
+
 ### 29/06
 [Hot Milk](https://www.google.com.br/maps/place/HOTMILK/@-25.4518674,-49.2538922,15z/data=!4m2!3m1!1s0x0:0x280bed912bc03c41?sa=X&ved=0ahUKEwjbw7n8rv7aAhUEGJAKHTjWBrQQ_BIItgEwEQ) 
 
