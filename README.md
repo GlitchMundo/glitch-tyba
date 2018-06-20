@@ -22,7 +22,7 @@ Para nossa primeira edição, estamos organizando de forma paralela ao [BIG Fest
 |14:00|	Abertura |	Auditório no Terreo	| todos  |
 |14:30|	O que é ser indie em Curitiba?	| Sala 01	| Pâmela Assis|
 |14:30|	Boas Práticas de Ilustração	| Sala 02	| Rafael Chiamenti|
-|14:30|	Desvendando os segredos do Game Audio		| a definir | Gabriel Oliveira |
+|14:30|	Desvendando os segredos do Game Audio		| a definir | Gabriel Oliveira e Diego Pontes |
 |14:30|	Transição do Design de Jogos analógicos para Desenvolvedores de jogos Digitais |	Auditório no Terreo |	Lúcia|
 |14:30|	Introdução ao Construct 2	| Sala 03	| André Yin|
 |15:15|	Responsabilidade com as atipicidades mentais |	Auditório no Terreo	| Felicia Guerreiro|
