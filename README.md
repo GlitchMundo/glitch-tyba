@@ -116,6 +116,7 @@ O Glitch-tyba Mundo 2019.01 vai acontecer entre os dias 20/06 e 06/06 em três l
 | Mesa 2: Docência em jogos                                                        |            | 20:30 h |
 | Roda de conversa: Diálogos entre comunidade acadêmica, jogadora e desenvolvedora |            | 21:30 h |
 | Encerramento                                                                     |            | 22:30 h |
+
 ## <a name="som">Dia 04/07: Música e Som</a>
 **Local: [Universidade Positivo Unidade Praça Santos Andrade](https://goo.gl/maps/vvwv7NsuvL7Qk25A6)**
 
