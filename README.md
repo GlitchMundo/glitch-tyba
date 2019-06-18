@@ -10,8 +10,11 @@ O Glitch Mundo é um espaço seguro e aberto de jogos e experiências interativa
 
 # Agora
 
-O Glitch-tyba Mundo 2019.01 vai acontecer entre os dias 20/06 e 06/06 em três lugares: [Hot&#x2011;Milk](https://goo.gl/maps/X9yA3coWWSpGA8Wg8), [GAMEscola](https://goo.gl/maps/fGSc3sM7e4MgSamLA), [Universidade Positivo Unidade Praça Santos Andrade](https://goo.gl/maps/vvwv7NsuvL7Qk25A6). O evento é aberto à todos e terá entrada franca. **[As inscrições podem ser feitas aqui](https://forms.gle/MZTMQpMf7E6h3KKFA)**
+O Glitch-tyba Mundo 2019.01 vai acontecer entre os dias 20/06 e 06/06 em três lugares: [Hot&#x2011;Milk](https://goo.gl/maps/X9yA3coWWSpGA8Wg8), [GAMEscola](https://goo.gl/maps/fGSc3sM7e4MgSamLA), [Universidade Positivo Unidade Praça Santos Andrade](https://goo.gl/maps/vvwv7NsuvL7Qk25A6). O evento é aberto à todos e terá entrada franca.
 
+<strong>
+<a href="https://forms.gle/MZTMQpMf7E6h3KKFA" style="margin: 2em 1em; padding: 1em; border: 1px solid #ca6; display: block; border-radius: 0.5em; background: #fc5; text-align: center; text-transform: uppercase; color: white; box-shadow: 0 0 1em rgba(128, 128, 128, 0.2)">As inscrições podem ser feitas aqui!</a>
+</strong>
 
 ## Visão Geral do Evento
 
