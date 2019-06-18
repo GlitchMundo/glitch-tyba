@@ -114,9 +114,9 @@ O Glitch-tyba Mundo 2019.01 vai acontecer entre os dias 20/06 e 06/06 em três l
 
 | Evento                                                                         | Convidados   | Horário |
 |--------------------------------------------------------------------------------|--------------|---------|
-| Workshop CWBBUGG - Utilizando Design Patterns em Unity: Singleton & Observer   | Gustavo Dort | 19:00 h |
+| Workshop CWBUUG - Utilizando Design Patterns em Unity: Singleton & Observer   | Gustavo Dort | 19:00 h |
 | Intervalo                                                                      |              | 21:00 h |
-| Workshop CWBBUGG - Utilizando Design Patterns em Unity: Singleton & Observer   | André Yin    | 21:15 h |
+| Workshop CWBUUG - Utilizando Design Patterns em Unity: Singleton & Observer   | Gustavo Dort | 21:15 h |
 
 ## <a name="analogicos">Dia 30/06: Jogos Análogicos</a>
 **Local: [GAMEscola](https://goo.gl/maps/fGSc3sM7e4MgSamLA)**
