@@ -13,7 +13,9 @@ O Glitch Mundo é um espaço seguro e aberto de jogos e experiências interativa
 O Glitch-tyba Mundo 2019.01 vai acontecer entre os dias 20/06 e 06/06 em três lugares: [Hot&#x2011;Milk](https://goo.gl/maps/X9yA3coWWSpGA8Wg8), [GAMEscola](https://goo.gl/maps/fGSc3sM7e4MgSamLA), [Universidade Positivo Unidade Praça Santos Andrade](https://goo.gl/maps/vvwv7NsuvL7Qk25A6). O evento é aberto à todos e terá entrada franca.
 
 <strong>
-<a href="https://forms.gle/MZTMQpMf7E6h3KKFA" style="margin: 2em 1em; padding: 1em; border: 1px solid #ca6; display: block; border-radius: 0.5em; background: #fc5; text-align: center; text-transform: uppercase; color: white; box-shadow: 0 0 1em rgba(128, 128, 128, 0.2)">As inscrições podem ser feitas aqui!</a>
+  <a href="https://forms.gle/MZTMQpMf7E6h3KKFA" style="margin: 2em 1em; padding: 1em; border: 1px solid #ca6; display: block; border-radius: 0.5em; background: #fc5; text-align: center; text-transform: uppercase; color: white; box-shadow: 0 0 1em rgba(128, 128, 128, 0.2)">
+    As inscrições podem ser feitas aqui!
+  </a>
 </strong>
 
 ## Visão Geral do Evento
@@ -39,16 +41,16 @@ O Glitch-tyba Mundo 2019.01 vai acontecer entre os dias 20/06 e 06/06 em três l
   <tbody>
     <tr>
       <td>Tema</td>
-      <td style="text-align: center"><a href="a">Abertura &amp; Construct para Iniciantes</a></td>
-      <td style="text-align: center"><a href="b">Arte 3D &amp; VFX</a></td>
-      <td style="text-align: center"><a href="c">Unity Meetup</a></td>
-      <td style="text-align: center"><a href="j">Jogos Analógicos</a></td>
-      <td style="text-align: center"><a href="d">Pixel Art &amp; Pintura Digital</a></td>
-      <td style="text-align: center"><a href="e">Game Design</a></td>
-      <td style="text-align: center"><a href="f">Academia e Jogos</a></td>
-      <td style="text-align: center"><a href="g">Música &amp; Som</a></td>
-      <td style="text-align: center"><a href="h">Mostra de Jogos</a></td>
-      <td style="text-align: left"><a href="i">Glitch-tyba</a></td>
+      <td style="text-align: center"><a href="#construct">Abertura &amp; Construct para Iniciantes</a></td>
+      <td style="text-align: center"><a href="#3d">Arte 3D &amp; VFX</a></td>
+      <td style="text-align: center"><a href="#unity">Unity Meetup</a></td>
+      <td style="text-align: center"><a href="#analogicos">Jogos Analógicos</a></td>
+      <td style="text-align: center"><a href="#pixel">Pixel Art &amp; Pintura Digital</a></td>
+      <td style="text-align: center"><a href="#gd">Game Design</a></td>
+      <td style="text-align: center"><a href="#academia">Academia e Jogos</a></td>
+      <td style="text-align: center"><a href="#som">Música &amp; Som</a></td>
+      <td style="text-align: center"><a href="#mostra">Mostra de Jogos</a></td>
+      <td style="text-align: left"><a href="#glichtyba">Glitch-tyba</a></td>
     </tr>
     <tr>
       <td>Local</td>
@@ -79,21 +81,10 @@ O Glitch-tyba Mundo 2019.01 vai acontecer entre os dias 20/06 e 06/06 em três l
   </tbody>
 </table>
 
-[construct]: a
-[3d]: b
-[unity]: c
-[pixel]: d
-[gd]: e
-[academia]: f
-[som]: g
-[mostra]: h
-[glitchtyba]: i
-[analogicos]: j
-
 ## <a name="construct">Dia 27/06: Abertura + Construct para Iniciantes</a>
 **Local: [Hot&#x2011;Milk](https://goo.gl/maps/X9yA3coWWSpGA8Wg8)**
 
-| Evento                      | Convidados | Horário |
+| Evento                      | Convidad@s | Horário |
 |-----------------------------|------------|---------|
 | Construct para Iniciantes   | André Yin  | 19:00 h |
 | Intervalo                   |            | 20:30 h |
@@ -103,7 +94,7 @@ O Glitch-tyba Mundo 2019.01 vai acontecer entre os dias 20/06 e 06/06 em três l
 ## <a name="3d">Dia 28/06: Arte 3D & VFX</a>
 **Local: [Hot&#x2011;Milk](https://goo.gl/maps/X9yA3coWWSpGA8Wg8)**
 
-| Evento                                               | Convidados        | Horário |
+| Evento                                               | Convidad@s        | Horário |
 |------------------------------------------------------|-------------------|---------|
 | In 30 Or Less: Livecoding Party                      | Felipe Tavares    | 19:00 h |
 | Intervalo                                            |                   | 19:45 h |
@@ -115,16 +106,16 @@ O Glitch-tyba Mundo 2019.01 vai acontecer entre os dias 20/06 e 06/06 em três l
 ## <a name="unity">Dia 29/06: Unity Meetup</a>
 **Local: [GAMEscola](https://goo.gl/maps/fGSc3sM7e4MgSamLA)**
 
-| Evento                                                                         | Convidados   | Horário |
-|--------------------------------------------------------------------------------|--------------|---------|
-| Workshop CWBUUG - Utilizando Design Patterns em Unity: Singleton & Observer   | Gustavo Dort | 19:00 h |
-| Intervalo                                                                      |              | 21:00 h |
-| Workshop CWBUUG - Utilizando Design Patterns em Unity: Singleton & Observer   | Gustavo Dort | 21:15 h |
+| Evento                                                        | Convidad@s   | Horário |
+|---------------------------------------------------------------|--------------|---------|
+| Workshop CWBUUG - Como evitar que seu código vire um macarrão | Gustavo Dort | 19:00 h |
+| Intervalo                                                     |              | 21:00 h |
+| Workshop CWBUUG - Como evitar que seu código vire um macarrão | Gustavo Dort | 21:15 h |
 
 ## <a name="analogicos">Dia 30/06: Jogos Análogicos</a>
 **Local: [GAMEscola](https://goo.gl/maps/fGSc3sM7e4MgSamLA)**
 
-| Evento                                                                                                         | Convidados   | Horário |
+| Evento                                                                                                         | Convidad@s   | Horário |
 |----------------------------------------------------------------------------------------------------------------|--------------|---------|
 | Desenvolvimento de Jogos de Tabuleiro - Por onde começar?                                                      | Rafael Lodi  | 14:00 h |
 | Intervalo                                                                                                      |              | 16:15 h |
@@ -136,7 +127,7 @@ O Glitch-tyba Mundo 2019.01 vai acontecer entre os dias 20/06 e 06/06 em três l
 **Local: [Universidade Positivo Unidade Praça Santos Andrade](https://goo.gl/maps/vvwv7NsuvL7Qk25A6)**
 
 
-| Evento                      | Convidados                 | Horário |
+| Evento                      | Convidad@s                 | Horário |
 |-----------------------------|----------------------------|---------|
 | Pixel Art & Pintura Digital | Gabe Fern & Ricardo Juchem | 19:00 h |
 | Intervalo                   |                            | 20:30 h |
@@ -146,38 +137,39 @@ O Glitch-tyba Mundo 2019.01 vai acontecer entre os dias 20/06 e 06/06 em três l
 ## <a name="gd">Dia 02/07: Game-Design</a>
 **Local: [Universidade Positivo Unidade Praça Santos Andrade](https://goo.gl/maps/vvwv7NsuvL7Qk25A6)**
 
-| Evento                                   | Convidados                            | Horário |
-|------------------------------------------|---------------------------------------|---------|
-| A evolução dos jogos digitais educativos | Lúcia Wolf Schafer                    | 19:00 h |
-| Intervalo                                |                                       | 20:00 h |
-| Análise literária de narrativa de jogos  | Matheus Graff                         | 20:15 h |
-| Intervalo                                |                                       | 21:15 h |
-| Random Talk: Geração Procedural          | Pâmela Beltrani ou Eduardo Martinelli | 21:30 h |
-| Encerramento                             |                                       | 22:30 h |
+| Evento                                   | Convidad@s         | Horário |
+|------------------------------------------|--------------------|---------|
+| A evolução dos jogos digitais educativos | Lúcia Wolf Schafer | 19:00 h |
+| Intervalo                                |                    | 20:00 h |
+| Análise literária de narrativa de jogos  | Matheus Graff      | 20:15 h |
+| Intervalo                                |                    | 21:15 h |
+| Random Talk: Geração Procedural          | Pâmela Beltrani    | 21:30 h |
+| Encerramento                             |                    | 22:30 h |
 
 ## <a name="academia">Dia 03/07: Academia e Jogos</a>
 **Local: [Universidade Positivo Unidade Praça Santos Andrade](https://goo.gl/maps/vvwv7NsuvL7Qk25A6)**
 
-| Evento                                                                           | Convidados | Horário |
-|----------------------------------------------------------------------------------|------------|---------|
-| Abertura: Pesquisa em jogos                                                      |            | 19:00 h |
-| Mesa 1: Trajetórias de pesquisa                                                  |            | 19:10 h |
-| Intervalo                                                                        |            | 20:15 h |
-| Mesa 2: Docência em jogos                                                        |            | 20:45 h |
-| Roda de conversa: Diálogos entre comunidade acadêmica, jogadora e desenvolvedora |            | 21:30 h |
-| Encerramento                                                                     |            | 22:30 h |
+| Evento                                                                           | Convidad@s                                                                                                                        | Horário |
+|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|---------|
+| Abertura: Pesquisa em jogos                                                      |                                                                                                                                   | 19:00 h |
+| Mesa 1: Trajetórias de pesquisa                                                  | Patricia Leite, Juliana Romanus, Anna Perci, Mariana Michels Fountoura, Felicia Guerreiro, Keli C. Leal da Cruz, Bruna Eliz Zorek | 19:10 h |
+| Intervalo                                                                        |                                                                                                                                   | 20:00 h |
+| Mesa 1: Trajetórias de pesquisa                                                  | Patricia Leite, Juliana Romanus, Anna Perci, Mariana Michels Fountoura, Felicia Guerreiro, Keli C. Leal da Cruz, Bruna Eliz Zorek | 20:15 h |
+| Intervalo                                                                        |                                                                                                                                   | 21:00 h |
+| Mesa 2: Docência em jogos                                                        | Fernanda Saldanha da Silva Taques, Rafael Baptistella, Bruno Campagnollo, Mariana Castro, Gustavo Dort, Pamela de Assis           | 21:15 h |
+| Roda de conversa: Diálogos entre comunidade acadêmica, jogadora e desenvolvedora |                                                                                                                                   | 22:00 h |
+| Encerramento                                                                     |                                                                                                                                   | 22:30 h |
 
 ## <a name="som">Dia 04/07: Música e Som</a>
 **Local: [Universidade Positivo Unidade Praça Santos Andrade](https://goo.gl/maps/vvwv7NsuvL7Qk25A6)**
 
-| Evento                                  | Convidados     | Horário |
-|-----------------------------------------|----------------|---------|
-| Aguardando Tema                         | Leonardo Lima  | 19:00 h |
-| Intervalo                               |                | 20:00 h |
-| Playtest de Sintetizador FM             | Felipe Tavares | 21:15 h |
-| Aguardando Tema                         | Diego Pontes   | 21:30 h |
-| Encerramento                            |                | 22:30 h |
-
+| Evento                                       | Convidad@s     | Horário |
+|----------------------------------------------|----------------|---------|
+| Aguardando Tema                              | Leonardo Lima  | 19:00 h |
+| Intervalo                                    |                | 20:00 h |
+| Playtest de Sintetizador FM                  | Felipe Tavares | 21:15 h |
+| Aprendendo a Identificar Estruturas Musicais | Diego Pontes   | 21:30 h |
+| Encerramento                                 |                | 22:30 h |
 
 ## <a name="mostra">Dia 05/07: Mostra de Jogos</a>
 **Local: [Universidade Positivo Unidade Praça Santos Andrade](https://goo.gl/maps/vvwv7NsuvL7Qk25A6)**
@@ -188,7 +180,6 @@ O Glitch-tyba Mundo 2019.01 vai acontecer entre os dias 20/06 e 06/06 em três l
 | Intervalo       | 21:15 h |
 | Mostra de Jogos | 22:00 h |
 | Encerramento    | 22:30 h |
-
 
 ## <a name="glitchtyba">Dia 06/07: Encerramento + Plenária</a>
 **Local: [Empório Aufenhaus](https://goo.gl/maps/EHCuo4Jporp4RtYe8)**
