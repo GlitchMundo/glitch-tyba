@@ -54,8 +54,8 @@ O Glitch-tyba Mundo 2019.01 vai acontecer entre os dias 20/06 e 06/06 em três l
     </tr>
     <tr>
       <td>Local</td>
-      <td style="text-align: center"><a href="https://goo.gl/maps/53gJRS9YBjfzdM6p8">Hot‑Milk</a></td>
-      <td style="text-align: center"><a href="https://goo.gl/maps/53gJRS9YBjfzdM6p8">Hot‑Milk</a></td>
+      <td style="text-align: center"><a href="https://goo.gl/maps/bRVkD1iZxAZDp5FM6">PUCPR</a></td>
+      <td style="text-align: center"><a href="https://goo.gl/maps/bRVkD1iZxAZDp5FM6">PUCPR</a></td>
       <td style="text-align: center"><a href="https://goo.gl/maps/dxxDHdnDxJXYFRsF6">GAMEscola</a></td>
       <td style="text-align: center"><a href="https://goo.gl/maps/dxxDHdnDxJXYFRsF6">GAMEscola</a></td>
       <td style="text-align: center"><a href="https://goo.gl/maps/RGhL3Kq2robpdtCd7">UP</a></td>
@@ -82,7 +82,7 @@ O Glitch-tyba Mundo 2019.01 vai acontecer entre os dias 20/06 e 06/06 em três l
 </table>
 
 ## <a name="construct">Dia 27/06: Abertura + Construct para Iniciantes</a>
-**Local: [Hot&#x2011;Milk](https://goo.gl/maps/X9yA3coWWSpGA8Wg8)**
+**Local: [PUCPR](https://goo.gl/maps/bRVkD1iZxAZDp5FM6), Bloco Azul, segundo andar, laboratório 11.**
 
 | Evento                      | Convidad@s | Horário |
 |-----------------------------|------------|---------|
@@ -92,7 +92,7 @@ O Glitch-tyba Mundo 2019.01 vai acontecer entre os dias 20/06 e 06/06 em três l
 | Encerramento                |            | 22:30 h |
 
 ## <a name="3d">Dia 28/06: Arte 3D & VFX</a>
-**Local: [Hot&#x2011;Milk](https://goo.gl/maps/X9yA3coWWSpGA8Wg8)**
+**Local: [PUCPR](https://goo.gl/maps/bRVkD1iZxAZDp5FM6), Bloco Azul, sala JAC4AC**
 
 | Evento                                               | Convidad@s        | Horário |
 |------------------------------------------------------|-------------------|---------|
